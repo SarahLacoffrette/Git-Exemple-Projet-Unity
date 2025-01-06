@@ -10,4 +10,10 @@
 
 #ect ...
 
+<<<<<<< HEAD
 Release 
+=======
+# La suite
+
+Release 2
+>>>>>>> release/v1.1
